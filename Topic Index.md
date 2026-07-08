@@ -1,44 +1,34 @@
-﻿# 🗂️ Topic Index
+# 🏷️ Topic Index
 
 > 知识图谱中心索引。每个 Topic Hub 是一个主题的入口点。
 
 ## 如何阅读
 
-- `→ [[Topic Hub]]` 表示该主题有完整 Hub 页
-- `topic/{name}` 是推荐标签格式
+- → [[Topic Hub]] 表示该主题有完整 Hub 页
+- 	opic/{name} 是推荐标签格式
 
-## AI 领域
-
-| 主题 | Hub | 标签 | 状态 |
-|------|-----|------|------|
-| Codex | → [[Codex Hub]] | `topic/codex` | ✅ |
-| Claude Code | → [[Claude Code Hub]] | `topic/claude-code` | ✅ |
-| Prompt Engineering | → [[Prompt Hub]] | `topic/prompt` | ✅ |
-| AI Workflow | → [[Workflow Hub]] | `topic/ai-workflow` | ✅ |
-| AI Agent | → | `topic/agent` | ⏳ |
-| MCP | → | `topic/mcp` | ⏳ |
-
-## 工具领域
+## 核心领域: 跨境电商
 
 | 主题 | Hub | 标签 | 状态 |
 |------|-----|------|------|
-| Obsidian | → [[Obsidian Hub]] | `topic/obsidian` | ✅ |
-| GitHub | → [[GitHub Hub]] | `topic/github` | ✅ |
+| 跨境电商 | → [[跨境电商 Hub]] | 	opic/cross-border-ecommerce | ✅ |
+| 市场分析 | → | 	opic/market-analysis | ⏳ |
+| 平台运营 | → | 	opic/platform-ops | ⏳ |
+| 选品研究 | → | 	opic/product-research | ⏳ |
+| 供应链 | → | 	opic/supply-chain | ⏳ |
+| 营销推广 | → | 	opic/ecommerce-marketing | ⏳ |
+| AI 工具 | → | 	opic/ai-tools | ⏳ |
 
-## 内容创作领域
-
-| 主题 | Hub | 标签 | 状态 |
-|------|-----|------|------|
-| Content Creation | → | `topic/content-creation` | ⏳ |
-| Monetization | → | `topic/monetization` | ⏳ |
-| SEO | → | `topic/seo` | ⏳ |
-
-## 金融领域
+## AI 与工具
 
 | 主题 | Hub | 标签 | 状态 |
 |------|-----|------|------|
-| Crypto | → | `topic/crypto` | ⏳ |
-| US Stocks | → | `topic/us-stocks` | ⏳ |
+| Codex | → [[Codex Hub]] | 	opic/codex | ✅ |
+| Claude Code | → [[Claude Code Hub]] | 	opic/claude-code | ✅ |
+| Prompt Engineering | → [[Prompt Hub]] | 	opic/prompt | ✅ |
+| AI Workflow | → [[Workflow Hub]] | 	opic/ai-workflow | ✅ |
+| Obsidian | → [[Obsidian Hub]] | 	opic/obsidian | ✅ |
+| GitHub | → [[GitHub Hub]] | 	opic/github | ✅ |
 
 ---
 

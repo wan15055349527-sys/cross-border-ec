@@ -1,39 +1,50 @@
-﻿# 🗺️ Knowledge Map
+# 🗺️ Knowledge Map
 
 > 知识地图总览 — Vault 的完整主题索引。
 
-## 领域概览
+## 核心领域: 跨境电商
 
-### AI
-→ 04-Research/AI/
+### 市场分析
+→ 04-Research/跨境电商/市场分析/
 
-### Crypto
-→ 04-Research/Crypto/
+### 平台运营
+→ 04-Research/跨境电商/平台运营/
 
-### US Stocks
-→ 04-Research/US-Stocks/
+### 选品研究
+→ 04-Research/跨境电商/选品研究/
+
+### 供应链
+→ 04-Research/跨境电商/供应链/
+
+### 物流
+→ 04-Research/跨境电商/物流/
+
+### 支付
+→ 04-Research/跨境电商/支付/
+
+### 营销推广
+→ 04-Research/跨境电商/营销推广/
+
+### 合规法务
+→ 04-Research/跨境电商/合规法务/
+
+### AI 工具
+→ 04-Research/跨境电商/AI工具/
+
+### 信息源
+→ 04-Research/跨境电商/信息源/
+
+## 支持领域
 
 ### Programming
-→ 04-Research/Programming/
-
-### Design
-→ 04-Research/Design/
+→ 04-Research/跨境电商/AI工具/
 
 ### Marketing
-→ 04-Research/Marketing/
+→ 04-Research/跨境电商/营销推广/
 
 ### Finance
-→ 04-Research/Finance/
-
-### Law
-→ 04-Research/Law/
-
-### Medicine
-→ 04-Research/Medicine/
-
-### Photography
-→ 04-Research/Photography/
+→ 04-Research/跨境电商/支付/
 
 ---
 
-> 注: 未激活的领域目录在确认研究方向后自动生成。
+> 跨境电商是核心研究领域，所有知识网络围绕此展开。
