@@ -9,15 +9,15 @@
 
 ## 核心领域: 跨境电商
 
-| 主题 | Hub | 标签 | 状态 |
-|------|-----|------|------|
-| 跨境电商 | → [[跨境电商 Hub]] | 	opic/cross-border-ecommerce | ✅ |
-| 市场分析 | → | 	opic/market-analysis | ⏳ |
-| 平台运营 | → | 	opic/platform-ops | ⏳ |
-| 选品研究 | → | 	opic/product-research | ⏳ |
-| 供应链 | → | 	opic/supply-chain | ⏳ |
-| 营销推广 | → | 	opic/ecommerce-marketing | ⏳ |
-| AI 工具 | → | 	opic/ai-tools | ⏳ |
+| 主题    | Hub            | 标签                          | 状态  |
+| ----- | -------------- | --------------------------- | --- |
+| 跨境电商  | → [[跨境电商 Hub]] | opic/cross-border-ecommerce | ✅   |
+| 市场分析  | →              | opic/market-analysis        | ⏳   |
+| 平台运营  | →              | opic/platform-ops           | ⏳   |
+| 选品研究  | →              | opic/product-research       | ⏳   |
+| 供应链   | →              | opic/supply-chain           | ⏳   |
+| 营销推广  | →              | opic/ecommerce-marketing    | ⏳   |
+| AI 工具 | →              | opic/ai-tools               | ⏳   |
 
 ## AI 与工具
 
