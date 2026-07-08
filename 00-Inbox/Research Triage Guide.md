@@ -1,4 +1,4 @@
-﻿# 🔄 Research Triage Guide
+# 🔄 Research Triage Guide
 
 ## 处理流程
 

@@ -1,4 +1,4 @@
-﻿# 📦 Project Status
+# 📦 Project Status
 
 > 项目管理中心 — 跟踪所有活跃项目。
 

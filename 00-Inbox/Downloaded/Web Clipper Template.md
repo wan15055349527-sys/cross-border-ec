@@ -1,4 +1,4 @@
-﻿---
+---
 created: {{date}}
 tags: [research, source, web-clipper]
 source: 
