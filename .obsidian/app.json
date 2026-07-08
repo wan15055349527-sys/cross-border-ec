@@ -1,0 +1,22 @@
+﻿{
+  "promptTimeFormat": "HH:mm",
+  "promptDateFormat": "YYYY-MM-DD",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "00-Inbox/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "spellcheck": true,
+  "tabSize": 2,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "showInlineTitle": false
+}
