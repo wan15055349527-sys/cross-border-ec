@@ -10,38 +10,29 @@ type: audit
 
 ## Stats
 
-- Total Files: 47
-- Markdown Files: 44
-- Other Files: 3
-- Total Directories: 48
+- Total Files: 48
+- Markdown Files: 46
+- Other Files: 2
+- Total Directories: 36
 
 ## Issues Found
 
-### Empty Directories (35)
+### Empty Directories (25)
 - \00-Inbox\Attachments
 - \00-Inbox\Cleaned
-- \04-Research\AI\Automation
-- \04-Research\AI\Business
-- \04-Research\AI\Design
-- \04-Research\AI\Information-Sources
-- \04-Research\AI\MCP
-- \04-Research\AI\Models
-- \04-Research\AI\Tools
-- \04-Research\AI\Workflow
-- \04-Research\Crypto\Market
-- \04-Research\Crypto\Onchain
-- \04-Research\Crypto\Protocols
-- \04-Research\Crypto\Research
-- \04-Research\Design
-- \04-Research\Finance\Banking
-- \04-Research\Finance\Cards
-- \04-Research\Finance\Credit-System
-- \04-Research\Marketing
-- \04-Research\Photography
-- \04-Research\Programming
-- \04-Research\US-Stocks\Macro
-- \04-Research\US-Stocks\Portfolio
-- \04-Research\US-Stocks\Valuation
+- \04-Research\跨境电商\AI工具
+- \04-Research\跨境电商\供应链
+- \04-Research\跨境电商\信息源
+- \04-Research\跨境电商\合规法务
+- \04-Research\跨境电商\品牌建设
+- \04-Research\跨境电商\客户服务
+- \04-Research\跨境电商\市场分析
+- \04-Research\跨境电商\平台运营
+- \04-Research\跨境电商\支付
+- \04-Research\跨境电商\数据分析
+- \04-Research\跨境电商\物流
+- \04-Research\跨境电商\营销推广
+- \04-Research\跨境电商\选品研究
 - \05-Content\Ideas
 - \05-Content\Published
 - \05-Content\Scripts
@@ -52,7 +43,6 @@ type: audit
 - \89-Prompts\Research
 - \89-Prompts\Video-Script
 - \89-Prompts\Workflow
-- \99-Archive
 
 ### Duplicate Names (1)
 - readme.md:
