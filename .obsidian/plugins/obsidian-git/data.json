@@ -1,0 +1,18 @@
+﻿{
+    "autoPull":  true,
+    "autoCommitMessage":  "auto: {{date}}",
+    "showStatusBar":  true,
+    "autoCommit":  true,
+    "gitPath":  "",
+    "updateSubmodules":  false,
+    "commitMessage":  "auto: {{date}}",
+    "pullBeforePush":  true,
+    "basePath":  "",
+    "remote":  "origin",
+    "backupBehavior":  "commit",
+    "syncMethod":  "merge",
+    "confirmCommit":  false,
+    "currentBranch":  "master",
+    "mainBranch":  "master",
+    "autoPush":  true
+}

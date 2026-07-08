@@ -12,3 +12,6 @@ desktop.ini
 *.bak
 *.swp
 *~
+
+# Chrome extension archives
+*.zip
